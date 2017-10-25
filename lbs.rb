@@ -1,3 +1,5 @@
+#Study Megan
+
 amount = ARGV[0].to_f
 to_what = ARGV[1]
 
